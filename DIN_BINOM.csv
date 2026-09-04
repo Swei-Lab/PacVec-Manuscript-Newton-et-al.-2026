@@ -1,0 +1,13 @@
+Site,County,Plot,Type,Treatment,Infection,Year
+Filoli,San Mateo,FLA,Deltamethrin,Acaricide,0,2023
+Filoli,San Mateo,FLV,Control,Control,1,2023
+Edgewood,San Mateo,EWA,Deltamethrin,Acaricide,0,2023
+Edgewood,San Mateo,EWV,Deltamethrin,Control,0,2023
+San Pedro,Marin,SPA,Permethrin,Acaricide,3,2023
+San Pedro,Marin,SPC,Control,Control,6,2023
+Filoli,San Mateo,FLA,Deltamethrin,Acaricide,6,2024
+Filoli,San Mateo,FLV,Control,Control,1,2024
+Edgewood,San Mateo,EWA,Deltamethrin,Acaricide,3,2024
+Edgewood,San Mateo,EWV,Control,Control,0,2024
+San Pedro,Marin,SPA,Permethrin,Acaricide,0,2024
+San Pedro,Marin,SPC,Control,Control,13,2024
